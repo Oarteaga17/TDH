@@ -1,0 +1,65 @@
+ul{
+
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+    list-style: none;
+    border-style: solid;
+    border-radius: 30px;
+    border-color: black;
+    background-color: black;
+   
+}
+
+.links{
+color:white;
+text-decoration: none;
+font-family: fantasy;
+font-size: 30px;
+}
+
+.titulo{
+    font-family: fantasy;
+    font-size: 30px;
+    margin-top: 35px;
+
+}
+
+.micro{
+    border-style: none;
+    border-radius: 35px;
+    width: 400px;
+}
+
+.text{
+   font-family: fantasy;
+   font-size: 30px;
+
+}
+ 
+
+.text2{
+    font-family: fantasy;
+    font-size: 30px;
+}
+
+.text3{
+    font-family: fantasy;
+    font-size: 30px;
+}
+p{
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+text-align: justify;
+float: right;
+}
+
+.mini_micro{
+    width: 300px;
+    border-radius: 30px;
+    margin-left: 500px;
+}
+
+.video{
+    width: 300px;
+    margin-left: 500px;
+}
